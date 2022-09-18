@@ -1,6 +1,8 @@
 ## Olá, eu sou o Luis Fernando 👋
 
  No momento além das disciplinas academicas que estou cursando como, Lógica de programação, Processos de Software, Sistemas de Informação, Banco de Dados avançado, Progamação orientada a Objetos, estou focado em aprender a base do Front-end e aprimorando meus conhecimentos em HTML5, CSS3, javaScript para então partir para outras tecnologias e frameworks, também me interesso muito por Banco de Dados onde pretendo aprofundar ainda mais meus conhecimentos. 🎓
+ 
+ Procuro a minha primeira vaga com desenvolvedor de software !!!
 
 
 - 🔭 Apaixonado por tecnologia e desenvolvimento.
