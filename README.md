@@ -1,14 +1,14 @@
-## Olá, eu sou o Luis Fernando 👋
+<h1 align='center'> Seja bem vindo!</h1>
 
- Estou cursando Análise e desenvolvimento de sistemas onde iniciei meus estudos em 2021, antes mesmo de entrar para faculdade já havia realizado alguns cursos voltados a área de programação onde descobri uma paixão por tecnologia/desenvolvimento, então tomei a decisão de me especializar, além das disciplinas acadêmicas estou aprofundando meus conhecimentos em HTML5, CSS3, javaScript, SQL, PLSQL e então próximo passo será React,Typscript,Bootstrap.
-
-
-- 🔭 Apaixonado por tecnologia e desenvolvimento.
-- 💻 Estudante de progamação.
-- 📚 Granduando Análise desenvolvimento de Sistemas.
+ Sou iniciante na programação, com apitdão para resolução de problemas e uma paixão por criar experiencias de interface web robustas na qual o usúario irá interagir. Me coloco diariamente em desafios e tenho pro atividade para aprender novos conceitos, linguagens, e tudo aquilo que pode me agragar de alguma forma, seja no ambito profissional ou pessoal.
+ Estou procurando uma oportunidade onde eu possa colaborar e aprender com outros programadores, para aprender as melhores práticas de desenvolvimento e crescer como desenvolvedor.
 
 ##
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisokl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisokl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Luis-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -18,13 +18,13 @@
   <img align="center" alt="Luis-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Luis-dev" height="40" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg"/>
   <img align="center" alt="Luis-GitHub" height="40" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/>
-       
+
+
  ##
-
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='Linkedin' height='30px'>](https://www.linkedin.com/in/luis-fernando-92834a221/)
  
- <a href="http://www.github.com/Luisokl"><img src="https://github-readme-stats.vercel.app/api?username=Luisokl&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Luisokl GitHub stats" /></a>
 
-<a href="https://github.com/Luisokl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisokl&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 
 
