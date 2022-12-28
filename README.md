@@ -4,12 +4,13 @@
 </br></br></br>
 
 ---
+<br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luisokl&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Luis Fernando github stats" /><br><br>
-  <a height="170em" href="https://github.com/Luisokl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisokl&theme=github-dark-blue&hide_border=true" /></a><br><br>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisokl&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
-</div><br><br>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luisokl&show_icons=true&count_private=true&hide_border=false&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Luis Fernando github stats" /><br><br>
+  <a height="170em" href="https://github.com/Luisokl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisokl&theme=github-dark-blue&hide_border=false" /></a><br><br>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisokl&hide_border=false&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
+</div><br>
 
 
 
