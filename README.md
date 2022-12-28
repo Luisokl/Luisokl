@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+LUIS+FERNANDO!;Sou+iniciante+na+programação!;Com+foco+no+desenvolvimento+web;Estou+Graduando+Analise+desenvolvimento+de+Sistema;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+LUIS+FERNANDO!;Sou+iniciante+na+programação!;Com+foco+no+desenvolvimento+web;Estou+Graduando+Analise+desenvolvimento+de+Sistema;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 </br></br></br>
 
 ---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luisokl&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisokl&hide_border=true&title_color=A020F0&text_color=A020F0&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luisokl&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /><a height="170em" href="https://github.com/Luisokl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisokl&theme=github-dark-blue&hide_border=false" /></a>
+  <br><br><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisokl&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
 </div>
 
 
@@ -46,7 +46,7 @@
  
  ![snake gif](https://github.com/Luisokl/Luisokl/blob/output/github-contribution-grid-snake.svg)
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
  
 
 
