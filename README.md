@@ -10,21 +10,23 @@
  
  ## Olá, Seja Bem vindo ao meu GITHUB
  <p>Sou Desenvolvedor de Softwares, com aptidão para resolução de problemas, tenho paixão pela criação de interfaces web robustas na qual o usuário irá interagir, com foco no desenvolvimento Front-end.
+  
  No momento estou cursando Análise e Desenvolvimento de Sistema, onde através do curso tive contato com diversos fundamentos, conteúdos e linguagens de programação, assim construindo uma base solida de conhecimentos e habilidades.
+  
  Estou procurando uma oportunidade onde eu possa colaborar e aprender com outros programadores, as melhores práticas de programação e a crescer como Desenvolvedor.</p>
-
-
-
-## Estou estudando no momento:
-<img alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt='bootstrap' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  />
-
 
 ## Tecnologias:
 
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Visualstudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />         
+  <img align="center" alt="Visualstudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  
+
+## Estou estudando no momento:
+<img alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt='bootstrap' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  />
+
+
+       
   
   
 
