@@ -9,6 +9,9 @@
  </p>
  
  ## Olá, Seja Bem vindo ao meu GITHUB
+ 
+ ![Snake animation](https://github.com/Luisokl/Luisokl/blob/output/github-contribution-grid-snake.svg)
+ 
  <p>Sou Desenvolvedor de Softwares, com aptidão para resolução de problemas, tenho paixão pela criação de interfaces web robustas na qual o usuário irá interagir, com foco no desenvolvimento Front-end.
   
  No momento estou cursando Análise e Desenvolvimento de Sistema, onde através do curso tive contato com diversos fundamentos, conteúdos e linguagens de programação, assim construindo uma base solida de conhecimentos e habilidades.
