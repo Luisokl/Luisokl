@@ -1,5 +1,5 @@
 <div>
-<img height='250' src='https://github.com/Luisokl/Luisokl/blob/main/perfil/1671318988975.png?raw=true' /><br><br>
+<img height='250' src='https://github.com/Luisokl/Luisokl/blob/main/perfil/1678570813281.jpg' /><br><br>
 
 <p align='right'>
 <a href="https://www.linkedin.com/in/luis-fernando-92834a221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
