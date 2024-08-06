@@ -1,5 +1,5 @@
 
-<img height='250' src='https://github.com/Luisokl/Luisokl/blob/main/perfil/1678570813281.jpg' /><br><br>
+
    
 
 
@@ -27,9 +27,6 @@ Como desenvolvedor Front-end, busco constantemente desafios que me permitam apli
 
  
 ##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=Luisokl&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-<div>
+   
 
  
