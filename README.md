@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Luis Fernando</h1>
 <h3 align="center">A passionate Frontend Developer from Brazil</h3>
-<img align='right' width='400' src='src/giphy (1).gif'>
+<img align='right' width='400' src='src/6vIk.gif'>
 
 - 🌱 I’m currently learning **ReactJs**
 
