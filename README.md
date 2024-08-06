@@ -26,7 +26,7 @@
 <br/>
 <h3 align="left">Languages and Tools:</h3>
    <a href="https://skillicons.dev"   >
-     <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,docker,github,linux,vercel,bootstrap" />
+     <img src="https://skillicons.dev/icons?i=notion,vscode,devto,html,javascript,react,tailwind,sass,bootstrap,firebase,mysql,docker,powershell,git,github,bash,npm,codepen,discord,gmail,windows,linux,ubuntu,vercel,figma" />
    </a>
  <br/>
 
